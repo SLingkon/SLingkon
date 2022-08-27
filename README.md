@@ -1,5 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[1.2]: http://i.imgur.com/wWzX9uB.png
+[![SLingkon's GitHub Banner](./assets/bannerIMG1.png)]
+
 <!--
 **SLingkon/SLingkon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
