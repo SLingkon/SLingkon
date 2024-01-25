@@ -1,6 +1,6 @@
 # Hello, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![SLingkon's GitHub Banner](./assets/bannerIMG1.png)
+![SLingkon's GitHub Banner](./assets/bannerIMG1.png) Dont worry about banner I will fix it.
 
 📫 How to reach me: ...<br><br>
 <a href='https://twitter.com/SLingkon_' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=02BCFF&color=black'/></a>
